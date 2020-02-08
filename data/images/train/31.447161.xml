@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>31.447161.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/train/31.447161.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>821</width>
+		<height>842</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>224</ymin>
+			<xmax>593</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+</annotation>

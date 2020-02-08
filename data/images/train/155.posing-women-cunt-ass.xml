@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>155.posing-women-cunt-ass.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/155.posing-women-cunt-ass.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>65</ymin>
+			<xmax>174</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

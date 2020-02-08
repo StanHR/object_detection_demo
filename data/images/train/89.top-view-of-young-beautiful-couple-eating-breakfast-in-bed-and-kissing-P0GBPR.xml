@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>89.top-view-of-young-beautiful-couple-eating-breakfast-in-bed-and-kissing-P0GBPR.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/89.top-view-of-young-beautiful-couple-eating-breakfast-in-bed-and-kissing-P0GBPR.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>183</ymin>
+			<xmax>321</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

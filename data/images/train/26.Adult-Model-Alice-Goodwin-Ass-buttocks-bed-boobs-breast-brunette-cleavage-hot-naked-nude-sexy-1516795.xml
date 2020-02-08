@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>26.Adult-Model-Alice-Goodwin-Ass-buttocks-bed-boobs-breast-brunette-cleavage-hot-naked-nude-sexy-1516795.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/train/26.Adult-Model-Alice-Goodwin-Ass-buttocks-bed-boobs-breast-brunette-cleavage-hot-naked-nude-sexy-1516795.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2019</width>
+		<height>2270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>1293</ymin>
+			<xmax>1073</xmax>
+			<ymax>1963</ymax>
+		</bndbox>
+	</object>
+</annotation>

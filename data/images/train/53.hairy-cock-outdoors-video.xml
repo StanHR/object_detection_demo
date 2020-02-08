@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>53.hairy-cock-outdoors-video.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/53.hairy-cock-outdoors-video.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>117</ymin>
+			<xmax>190</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

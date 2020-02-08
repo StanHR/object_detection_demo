@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>79.524585d184635fd3fd8837bdb6c83b06.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/79.524585d184635fd3fd8837bdb6c83b06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>247</ymin>
+			<xmax>429</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

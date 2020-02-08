@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>39.Cute-breasted-girl-smiles-while-showing-her-hairy-vagina.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/39.Cute-breasted-girl-smiles-while-showing-her-hairy-vagina.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>101</ymin>
+			<xmax>374</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

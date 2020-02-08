@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>156.10790c27c0db_tumblr_paug5wsidK1v5tumoo1_1280.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/156.10790c27c0db_tumblr_paug5wsidK1v5tumoo1_1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>526</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>251</ymin>
+			<xmax>278</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

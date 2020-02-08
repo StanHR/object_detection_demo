@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>164.busty-girls-cunt-gallery-5.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/164.busty-girls-cunt-gallery-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>237</width>
+		<height>247</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>137</ymin>
+			<xmax>163</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

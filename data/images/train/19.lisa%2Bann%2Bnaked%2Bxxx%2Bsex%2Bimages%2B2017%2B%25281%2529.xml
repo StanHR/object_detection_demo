@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>19.lisa%2Bann%2Bnaked%2Bxxx%2Bsex%2Bimages%2B2017%2B%25281%2529.JPG</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/19.lisa%2Bann%2Bnaked%2Bxxx%2Bsex%2Bimages%2B2017%2B%25281%2529.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>227</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>43</ymin>
+			<xmax>157</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

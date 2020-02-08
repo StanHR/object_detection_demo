@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>89.Leo-Alexander-Big-Cock-Gay-Porn-Star-Naked.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/89.Leo-Alexander-Big-Cock-Gay-Porn-Star-Naked.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>415</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>126</ymin>
+			<xmax>288</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

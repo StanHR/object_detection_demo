@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>81.sex-love-life-2013-05-french-kissing-main.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/81.sex-love-life-2013-05-french-kissing-main.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>673</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>273</ymin>
+			<xmax>441</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

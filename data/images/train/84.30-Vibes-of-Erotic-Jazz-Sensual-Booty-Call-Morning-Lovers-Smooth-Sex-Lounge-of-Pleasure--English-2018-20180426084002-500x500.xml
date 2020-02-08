@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>84.30-Vibes-of-Erotic-Jazz-Sensual-Booty-Call-Morning-Lovers-Smooth-Sex-Lounge-of-Pleasure--English-2018-20180426084002-500x500.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/84.30-Vibes-of-Erotic-Jazz-Sensual-Booty-Call-Morning-Lovers-Smooth-Sex-Lounge-of-Pleasure--English-2018-20180426084002-500x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>353</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>166</ymin>
+			<xmax>262</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

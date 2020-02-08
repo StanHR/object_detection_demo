@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>157.alyson-hannigan-pierced-vagina-tight-pussy-naked-001.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/157.alyson-hannigan-pierced-vagina-tight-pussy-naked-001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>344</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>150</ymin>
+			<xmax>210</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

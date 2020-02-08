@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>92.Cold%20shower.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/92.Cold%20shower.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>57</ymin>
+			<xmax>209</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

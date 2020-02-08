@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>36.nude-boy-big-cock-10-390x450.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/36.nude-boy-big-cock-10-390x450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>229</width>
+		<height>229</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>94</ymin>
+			<xmax>185</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

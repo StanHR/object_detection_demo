@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>150.pictures_of_nude_boobs.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/train/150.pictures_of_nude_boobs.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>581</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>277</ymin>
+			<xmax>421</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

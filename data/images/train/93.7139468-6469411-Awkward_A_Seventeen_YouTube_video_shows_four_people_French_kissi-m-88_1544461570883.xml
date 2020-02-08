@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>93.7139468-6469411-Awkward_A_Seventeen_YouTube_video_shows_four_people_French_kissi-m-88_1544461570883.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/93.7139468-6469411-Awkward_A_Seventeen_YouTube_video_shows_four_people_French_kissi-m-88_1544461570883.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>155</ymin>
+			<xmax>416</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

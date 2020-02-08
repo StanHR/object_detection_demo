@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>1.441145_87040-132181-naked-lesbian-ladies-french-kissing-on-bed.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/1.441145_87040-132181-naked-lesbian-ladies-french-kissing-on-bed.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>366</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>126</ymin>
+			<xmax>202</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

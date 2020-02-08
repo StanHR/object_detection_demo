@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>69.00-holding-date-night-french-kiss.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/69.00-holding-date-night-french-kiss.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>191</ymin>
+			<xmax>364</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

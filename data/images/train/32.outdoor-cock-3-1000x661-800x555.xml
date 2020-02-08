@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>32.outdoor-cock-3-1000x661-800x555.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/32.outdoor-cock-3-1000x661-800x555.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>489</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>35</ymin>
+			<xmax>319</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

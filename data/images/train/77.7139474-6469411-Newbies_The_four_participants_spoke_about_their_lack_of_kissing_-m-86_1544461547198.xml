@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>77.7139474-6469411-Newbies_The_four_participants_spoke_about_their_lack_of_kissing_-m-86_1544461547198.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/77.7139474-6469411-Newbies_The_four_participants_spoke_about_their_lack_of_kissing_-m-86_1544461547198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>154</ymin>
+			<xmax>332</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>73.naked-cunt-videos-6.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/73.naked-cunt-videos-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>374</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>161</ymin>
+			<xmax>260</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

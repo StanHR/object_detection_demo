@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>73.ManAvenue-hunk-Mario-Cortez-swim-trunks-soft-penis-posing-muscled-stud-jerks-jizz-big-dick-naked-man-horny-009-tube-download-torrent-gallery-sexpics-photo.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/73.ManAvenue-hunk-Mario-Cortez-swim-trunks-soft-penis-posing-muscled-stud-jerks-jizz-big-dick-naked-man-horny-009-tube-download-torrent-gallery-sexpics-photo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>589</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>235</ymin>
+			<xmax>474</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

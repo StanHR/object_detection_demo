@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>37.1fab48cc44c4c84f8520887c6f9e08a3.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/37.1fab48cc44c4c84f8520887c6f9e08a3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>163</ymin>
+			<xmax>282</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

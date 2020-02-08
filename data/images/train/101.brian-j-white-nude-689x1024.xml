@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>101.brian-j-white-nude-689x1024.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/101.brian-j-white-nude-689x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>196</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>52</ymin>
+			<xmax>149</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

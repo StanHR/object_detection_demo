@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>63.First_Passionate_sensual_kiss_lips_tongue_french-kiss.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/63.First_Passionate_sensual_kiss_lips_tongue_french-kiss.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>446</width>
+		<height>334</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>87</ymin>
+			<xmax>308</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

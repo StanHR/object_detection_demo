@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>212.30fff116f46ea0c65364b655c3e3566b.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/test/212.30fff116f46ea0c65364b655c3e3566b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>597</width>
+		<height>541</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>109</ymin>
+			<xmax>437</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

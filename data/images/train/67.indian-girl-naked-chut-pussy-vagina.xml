@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>67.indian-girl-naked-chut-pussy-vagina.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/67.indian-girl-naked-chut-pussy-vagina.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>261</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>108</ymin>
+			<xmax>125</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

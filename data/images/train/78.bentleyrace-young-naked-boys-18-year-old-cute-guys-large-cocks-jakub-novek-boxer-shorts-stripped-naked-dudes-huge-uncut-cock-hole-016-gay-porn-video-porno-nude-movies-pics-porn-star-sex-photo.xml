@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>78.bentleyrace-young-naked-boys-18-year-old-cute-guys-large-cocks-jakub-novek-boxer-shorts-stripped-naked-dudes-huge-uncut-cock-hole-016-gay-porn-video-porno-nude-movies-pics-porn-star-sex-photo.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/78.bentleyrace-young-naked-boys-18-year-old-cute-guys-large-cocks-jakub-novek-boxer-shorts-stripped-naked-dudes-huge-uncut-cock-hole-016-gay-porn-video-porno-nude-movies-pics-porn-star-sex-photo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>505</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>178</ymin>
+			<xmax>317</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>87.frenchkiss-frenchwedding-lovers-iledere.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/87.frenchkiss-frenchwedding-lovers-iledere.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1636</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>270</ymin>
+			<xmax>973</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

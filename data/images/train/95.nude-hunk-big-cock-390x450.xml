@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>95.nude-hunk-big-cock-390x450.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/95.nude-hunk-big-cock-390x450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>316</width>
+		<height>287</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>85</ymin>
+			<xmax>199</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

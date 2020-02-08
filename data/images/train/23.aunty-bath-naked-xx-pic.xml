@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>23.aunty-bath-naked-xx-pic.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/train/23.aunty-bath-naked-xx-pic.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>54</ymin>
+			<xmax>177</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

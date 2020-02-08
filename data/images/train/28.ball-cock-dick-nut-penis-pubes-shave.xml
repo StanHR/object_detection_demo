@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>28.ball-cock-dick-nut-penis-pubes-shave.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/28.ball-cock-dick-nut-penis-pubes-shave.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>279</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>179</ymin>
+			<xmax>190</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

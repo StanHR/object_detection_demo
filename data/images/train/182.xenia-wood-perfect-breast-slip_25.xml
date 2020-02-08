@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>182.xenia-wood-perfect-breast-slip_25.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/train/182.xenia-wood-perfect-breast-slip_25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>134</ymin>
+			<xmax>383</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>71.Gavin-Wolfe-Legend-Men-Real-Muscle-Men-naked-bodybuilder-nude-bodybuilders-big-muscle-huge-cock-10-gallery-video-photo.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/71.Gavin-Wolfe-Legend-Men-Real-Muscle-Men-naked-bodybuilder-nude-bodybuilders-big-muscle-huge-cock-10-gallery-video-photo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>165</ymin>
+			<xmax>267</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

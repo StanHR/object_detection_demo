@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>74.breaking-spade-teaser-3.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/74.breaking-spade-teaser-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>531</width>
+		<height>494</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>199</ymin>
+			<xmax>315</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

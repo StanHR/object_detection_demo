@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>70.vaginal-speculum-09.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/70.vaginal-speculum-09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>784</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>224</ymin>
+			<xmax>486</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

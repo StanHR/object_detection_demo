@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>160.fae77079a3727b904711d5e9fb1112f7.1.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/160.fae77079a3727b904711d5e9fb1112f7.1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>268</width>
+		<height>237</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>60</ymin>
+			<xmax>182</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

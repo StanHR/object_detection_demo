@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>33.preview.mp4.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/33.preview.mp4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>158</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>53</ymin>
+			<xmax>96</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

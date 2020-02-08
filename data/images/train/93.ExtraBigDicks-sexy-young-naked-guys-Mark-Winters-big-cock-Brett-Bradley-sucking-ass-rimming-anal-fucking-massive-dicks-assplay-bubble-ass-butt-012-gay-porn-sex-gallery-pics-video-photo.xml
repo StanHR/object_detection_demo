@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>93.ExtraBigDicks-sexy-young-naked-guys-Mark-Winters-big-cock-Brett-Bradley-sucking-ass-rimming-anal-fucking-massive-dicks-assplay-bubble-ass-butt-012-gay-porn-sex-gallery-pics-video-photo.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/93.ExtraBigDicks-sexy-young-naked-guys-Mark-Winters-big-cock-Brett-Bradley-sucking-ass-rimming-anal-fucking-massive-dicks-assplay-bubble-ass-butt-012-gay-porn-sex-gallery-pics-video-photo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>233</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>132</ymin>
+			<xmax>228</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

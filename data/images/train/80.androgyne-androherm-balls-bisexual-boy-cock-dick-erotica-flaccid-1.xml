@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>80.androgyne-androherm-balls-bisexual-boy-cock-dick-erotica-flaccid-1.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/80.androgyne-androherm-balls-bisexual-boy-cock-dick-erotica-flaccid-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>816</width>
+		<height>805</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>169</ymin>
+			<xmax>564</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

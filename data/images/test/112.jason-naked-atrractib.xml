@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>112.jason-naked-atrractib.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/112.jason-naked-atrractib.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>104</ymin>
+			<xmax>199</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

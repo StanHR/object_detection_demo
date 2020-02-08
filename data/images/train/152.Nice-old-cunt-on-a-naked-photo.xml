@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>152.Nice-old-cunt-on-a-naked-photo.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/152.Nice-old-cunt-on-a-naked-photo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>262</ymin>
+			<xmax>428</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

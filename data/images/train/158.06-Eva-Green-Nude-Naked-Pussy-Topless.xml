@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>158.06-Eva-Green-Nude-Naked-Pussy-Topless.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/158.06-Eva-Green-Nude-Naked-Pussy-Topless.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>772</width>
+		<height>669</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>264</ymin>
+			<xmax>525</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

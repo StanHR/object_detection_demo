@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>34.Thug-Boy-King-Kato-Naked-Chicago-Thug-Big-Black-Dick-22.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/34.Thug-Boy-King-Kato-Naked-Chicago-Thug-Big-Black-Dick-22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>395</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>130</ymin>
+			<xmax>191</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

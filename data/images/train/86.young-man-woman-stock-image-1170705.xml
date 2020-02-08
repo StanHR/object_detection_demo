@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>86.young-man-woman-stock-image-1170705.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/86.young-man-woman-stock-image-1170705.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>651</width>
+		<height>688</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>137</ymin>
+			<xmax>436</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

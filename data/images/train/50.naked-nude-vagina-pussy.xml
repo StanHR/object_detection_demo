@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>50.naked-nude-vagina-pussy.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/50.naked-nude-vagina-pussy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>407</width>
+		<height>403</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>172</ymin>
+			<xmax>350</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

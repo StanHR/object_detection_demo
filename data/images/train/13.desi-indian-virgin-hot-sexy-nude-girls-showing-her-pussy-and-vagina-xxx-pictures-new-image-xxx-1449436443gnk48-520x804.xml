@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>13.desi-indian-virgin-hot-sexy-nude-girls-showing-her-pussy-and-vagina-xxx-pictures-new-image-xxx-1449436443gnk48-520x804.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/13.desi-indian-virgin-hot-sexy-nude-girls-showing-her-pussy-and-vagina-xxx-pictures-new-image-xxx-1449436443gnk48-520x804.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>226</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>84</ymin>
+			<xmax>203</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

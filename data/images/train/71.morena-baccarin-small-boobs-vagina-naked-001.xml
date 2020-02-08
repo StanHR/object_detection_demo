@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vagina</folder>
+	<filename>71.morena-baccarin-small-boobs-vagina-naked-001.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/vagina/71.morena-baccarin-small-boobs-vagina-naked-001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>100</ymin>
+			<xmax>214</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

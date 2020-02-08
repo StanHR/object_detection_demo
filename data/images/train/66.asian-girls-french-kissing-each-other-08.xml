@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiss</folder>
+	<filename>66.asian-girls-french-kissing-each-other-08.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/kiss/66.asian-girls-french-kissing-each-other-08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>569</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>206</ymin>
+			<xmax>336</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

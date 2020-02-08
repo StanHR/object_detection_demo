@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dick</folder>
+	<filename>116.nudist-boy-soft-cut-cock-390x450.jpg</filename>
+	<path>/home/ghost/Desktop/object_detection_demo/data/images/dick/116.nudist-boy-soft-cut-cock-390x450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>149</width>
+		<height>131</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>44</ymin>
+			<xmax>108</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>
